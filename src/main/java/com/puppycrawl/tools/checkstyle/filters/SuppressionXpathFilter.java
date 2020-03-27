@@ -62,9 +62,6 @@ import com.puppycrawl.tools.checkstyle.utils.FilterUtil;
  * EmptyLineSeparator
  * </li>
  * <li>
- * IllegalCatch
- * </li>
- * <li>
  * Indentation
  * </li>
  * <li>
@@ -72,9 +69,6 @@ import com.puppycrawl.tools.checkstyle.utils.FilterUtil;
  * </li>
  * <li>
  * InterfaceMemberImpliedModifier
- * </li>
- * <li>
- * InvalidJavadocPosition
  * </li>
  * <li>
  * JavadocContentLocation
@@ -86,22 +80,13 @@ import com.puppycrawl.tools.checkstyle.utils.FilterUtil;
  * JavadocType
  * </li>
  * <li>
- * LambdaParameterName
- * </li>
- * <li>
  * MethodCount
  * </li>
  * <li>
  * MissingJavadocMethod
  * </li>
  * <li>
- * MissingJavadocPackage
- * </li>
- * <li>
  * MissingJavadocType
- * </li>
- * <li>
- * NeedBraces
  * </li>
  * <li>
  * OverloadMethodsDeclarationOrder
@@ -120,9 +105,6 @@ import com.puppycrawl.tools.checkstyle.utils.FilterUtil;
  * </li>
  * <li>
  * TrailingComment
- * </li>
- * <li>
- * UncommentedMain
  * </li>
  * <li>
  * UnnecessaryParentheses
